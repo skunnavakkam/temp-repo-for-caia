@@ -1,0 +1,39 @@
+{
+  "os":  "macOS-14.3-arm64-arm-64bit",
+  "python":  "3.11.9",
+  "startedAt":  "2024-11-30T23:35:54.614245Z",
+  "program":  "/Users/sudarshanagopalkunnavakkam/Documents/Caltech/feature-splitting/main.py",
+  "codePath":  "main.py",
+  "git":  {
+    "remote":  "https://github.com/Caltech-AI-Alignment/feature-splitting.git",
+    "commit":  "aacaef13163fecf94243700c473c869d7267d021"
+  },
+  "email":  "kvsudarsh786@gmail.com",
+  "root":  "/Users/sudarshanagopalkunnavakkam/Documents/Caltech/feature-splitting",
+  "host":  "Sudarshanagopals-MacBook-Pro.local",
+  "username":  "sudarshanagopalkunnavakkam",
+  "executable":  "/Users/sudarshanagopalkunnavakkam/Documents/Caltech/feature-splitting/venv/bin/python",
+  "codePathLocal":  "main.py",
+  "cpu_count":  11,
+  "cpu_count_logical":  11,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "359902367744"
+    }
+  },
+  "memory":  {
+    "total":  "19327352832"
+  },
+  "cpu":  {
+    "count":  11,
+    "countLogical":  11
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  5,
+    "gpuCores":  14,
+    "memoryGb":  18
+  }
+}

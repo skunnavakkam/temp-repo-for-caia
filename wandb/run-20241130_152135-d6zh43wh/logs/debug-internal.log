@@ -1,0 +1,8 @@
+{"time":"2024-11-30T15:21:35.94634-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-30T15:21:35.946378-08:00","level":"INFO","msg":"created symlink","path":"/Users/sudarshanagopalkunnavakkam/Documents/Caltech/feature-splitting/wandb/run-20241130_152135-d6zh43wh/logs/debug-core.log"}
+{"time":"2024-11-30T15:21:36.055655-08:00","level":"INFO","msg":"created new stream","id":"d6zh43wh"}
+{"time":"2024-11-30T15:21:36.055834-08:00","level":"INFO","msg":"stream: started","id":"d6zh43wh"}
+{"time":"2024-11-30T15:21:36.055971-08:00","level":"INFO","msg":"handler: started","stream_id":"d6zh43wh"}
+{"time":"2024-11-30T15:21:36.056159-08:00","level":"INFO","msg":"sender: started","stream_id":"d6zh43wh"}
+{"time":"2024-11-30T15:21:36.056156-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"d6zh43wh"}
+{"time":"2024-11-30T15:21:36.326726-08:00","level":"INFO","msg":"Starting system monitor"}
